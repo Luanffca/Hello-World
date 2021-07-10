@@ -5,7 +5,7 @@ function semaforo(word){
         return 'Siga'
     }
     if(word == 'amarelo'){
-        return 'deruza'
+        return 'reduza'
     }
     if(word == 'vermelho'){
         return 'pare'
